@@ -1,0 +1,84 @@
+[STARTING] TA..
+TA address: 0x3Ca2ab584329684CEc2534b5e74C49158f9aCAce
+TA privateKey: 0xcb068ac925b154f17182b21a793e12205d3f5d055fae45f7132fd897d1058ca5
+Smart contract: 0xB1205FB2696250724f0D8514Bf2d8a99F7A074A9
+Blockchain Connection status.... True
+Your address: 0x3Ca2ab584329684CEc2534b5e74C49158f9aCAce
+Your balance: 999993263692989881968
+[LISTENING] on ip..172.16.68.190
+[NEW Connection] ('172.16.68.190', 52914) connected.
+[ACTIVE CONNECTIONS 1
+[('172.16.68.190', 52914)i,Bez New Status:12]
+[NEW Connection] ('172.16.68.190', 52920) connected.
+[ACTIVE CONNECTIONS 2
+[('172.16.68.190', 52920)i,AUDI New Status:20]
+[NEW Connection] ('172.16.68.190', 52926) connected.
+[ACTIVE CONNECTIONS 3
+[('172.16.68.190', 52926)i,SUZ New Status:15]
+[NEW Connection] ('172.16.68.190', 52936) connected.
+[ACTIVE CONNECTIONS 4
+[('172.16.68.190', 52936)i,BMW New Status:15]
+[NEW Connection] ('172.16.68.190', 52944) connected.
+[ACTIVE CONNECTIONS 5
+[('172.16.68.190', 52944)i,Bez New Status:12]
+[NEW Connection] ('172.16.68.190', 52952) connected.
+[ACTIVE CONNECTIONS 6
+[('172.16.68.190', 52952)i,AUDI New Status:20]
+[NEW Connection] ('172.16.68.190', 52958) connected.
+[ACTIVE CONNECTIONS 7
+[('172.16.68.190', 52958)i,SUZ New Status:15]
+[NEW Connection] ('172.16.68.190', 52968) connected.
+[ACTIVE CONNECTIONS 8
+[('172.16.68.190', 52968)i,BMW New Status:15]
+[NEW Connection] ('172.16.68.190', 52970) connected.
+[ACTIVE CONNECTIONS 9
+[('172.16.68.190', 52970)i,Bez New Status:12]
+[NEW Connection] ('172.16.68.190', 52980) connected.
+[ACTIVE CONNECTIONS 10
+[('172.16.68.190', 52980)i,AUDI New Status:20]
+[NEW Connection] ('172.16.68.190', 52992) connected.
+[ACTIVE CONNECTIONS 11
+[('172.16.68.190', 52992)i,SUZ New Status:15]
+[NEW Connection] ('172.16.68.190', 53006) connected.
+[ACTIVE CONNECTIONS 12
+[('172.16.68.190', 53006)i,BMW New Status:15]
+Function: EV registation completed: Gas used: 185565  Time: 48.641204833984375
+Function: RSU registation completed: Gas used: 210692  Time: 60.37187576293945
+Function: RSU registation completed: Gas used: 210680  Time: 46.60630226135254
+Function: EV registation completed: Gas used: 185565  Time: 59.815406799316406
+Function: EV registation completed: Gas used: 185565  Time: 53.88832092285156
+Function: EV registation completed: Gas used: 185565  Time: 47.69277572631836
+Function: EV registation completed: Gas used: 185565  Time: 39.18027877807617
+Function: RSU registation completed: Gas used: 227792  Time: 62.40963935852051
+Function: RSU registation completed: Gas used: 210692  Time: 73.04525375366211
+Function: EV registation completed: Gas used: 202665  Time: 43.09821128845215
+Function: EV registation completed: Gas used: 185565  Time: 49.5755672454834
+[NEW Connection] ('172.16.68.190', 53008) connected.
+[ACTIVE CONNECTIONS 13
+[('172.16.68.190', 53008)i,Bez New Status:12]
+[NEW Connection] ('172.16.68.190', 53010) connected.
+[ACTIVE CONNECTIONS 14
+[('172.16.68.190', 53010)i,AUDI New Status:20]
+[NEW Connection] ('172.16.68.190', 53026) connected.
+[ACTIVE CONNECTIONS 15
+[('172.16.68.190', 53026)i,SUZ New Status:15]
+[NEW Connection] ('172.16.68.190', 53042) connected.
+[ACTIVE CONNECTIONS 16
+[('172.16.68.190', 53042)i,BMW New Status:15]
+[NEW Connection] ('172.16.68.190', 37622) connected.
+[('172.16.68.190', 37622)i,Bez New Status:12]
+[ACTIVE CONNECTIONS 17
+[NEW Connection] ('172.16.68.190', 37636) connected.
+[ACTIVE CONNECTIONS 18
+[('172.16.68.190', 37636)i,AUDI New Status:20]
+[NEW Connection] ('172.16.68.190', 37640) connected.
+[ACTIVE CONNECTIONS 19
+[('172.16.68.190', 37640)i,SUZ New Status:15]
+Function: EV registation completed: Gas used: 185565  Time: 37.92715072631836
+Function: EV registation completed: Gas used: 185553  Time: 42.25015640258789
+Function: EV registation completed: Gas used: 185565  Time: 40.49825668334961
+Function: EV registation completed: Gas used: 185565  Time: 29.805898666381836
+Function: EV registation completed: Gas used: 185565  Time: 48.803091049194336
+Function: EV registation completed: Gas used: 185553  Time: 60.49776077270508
+Function: EV registation completed: Gas used: 185565  Time: 43.26200485229492
+Function: EV registation completed: Gas used: 185565  Time: 10064.874649047852

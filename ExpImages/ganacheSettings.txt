@@ -1,0 +1,6 @@
+ganache -h $host --miner.blockTime=5 --wallet.totalAccounts=$nUser
+
+
+PUFs
+----------------------
+pypuf
