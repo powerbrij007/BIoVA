@@ -1,0 +1,989 @@
+ganache v7.9.0 (@ganache/cli: 0.10.0, @ganache/core: 0.10.0)
+Starting RPC server
+
+Available Accounts
+==================
+(0) 0x0ef99039833BD5034F52a30bDF3905dd91f94120 (1000 ETH)
+(1) 0x07cfb84B894cF33C55D4A21FeB4f217649614D3d (1000 ETH)
+(2) 0x0197AA3F8E800797865298677880e27350E9ABd6 (1000 ETH)
+(3) 0xeF4A8739F5CB5689cA60438fF7B71A432c144660 (1000 ETH)
+(4) 0x7a357f6ce5F3C95BAa3B4398BDdE03D9601E59Ce (1000 ETH)
+(5) 0x9371B78b72849Cb4689EFc82C9cEa64d13587b49 (1000 ETH)
+(6) 0xcCD3AB1C841Fb304066F49e4D09c8F655F3BE413 (1000 ETH)
+(7) 0x0F69f909B65b38c4FcF068b3a38019fF5E2450fa (1000 ETH)
+(8) 0xeC060a0a81960b6Fa81Eea9Ef963F78a9d11C79c (1000 ETH)
+(9) 0xbD8ab9aB8DcA15375c4Ab32ba1142B307809f144 (1000 ETH)
+(10) 0x3DbC6B9923FEda0385EFeEDb1996AFb16A58E51E (1000 ETH)
+(11) 0x42a812Fc349639697a3B48Fc78a6136Ff21b50B1 (1000 ETH)
+(12) 0x8B413cfB8ef07C407dC58610AcA1691158B88348 (1000 ETH)
+(13) 0x7A3d5d243dA8572b3Cca51BEB270A91b10c43f29 (1000 ETH)
+(14) 0x7cf09B4B0C884a31228c444e023235483Aa4d7e4 (1000 ETH)
+(15) 0xf5E6E4c82CE9Ee88724d8cb13555E1daAa333273 (1000 ETH)
+(16) 0x84636827278C5F0EF1CA1d926225F1aE53ab69C9 (1000 ETH)
+(17) 0x25CdFffe480653b59d97e2A134fAA3aE41C8B77A (1000 ETH)
+(18) 0xc100918b038e7d4ba7B6C0ACf508f2257b36DF4F (1000 ETH)
+(19) 0x7F0e337c81737fb908aB52582c64b7B04602f7eC (1000 ETH)
+
+Private Keys
+==================
+(0) 0x22410a2856c96921f8a59e80a2a91f74ec5b4fd448df57a00fd8b398530bdf2b
+(1) 0xa407438d69f0de44d387b7cb319f6fac6dab73c42b85ba9c950da9b168319a3a
+(2) 0x2fe68c588619093b0f262533719c777901cc87b41b809ebe6bbda5da3f46b69e
+(3) 0x30f17d212a687ac9e7bc5921fbd1f6161e32dec40809c7fa354cd300213efbf9
+(4) 0x9a4f6793dbec8ba5ff697c056acb0e8b31090f33888fa1ceb062ec532bef509b
+(5) 0x05e746b8b62696e4ea6cb41c07758a898bfa66f145926c3bb437036224370c9e
+(6) 0x28f8a4d5209c7a6877df2026b3ac9988be6dfd0b4b838658d0f1f26b1104e297
+(7) 0x14d39ad7e0d09a499c5f8f97f36655fbd29539c07aa60306a102dc882919f12f
+(8) 0x6eb88fec7618c51012fa5c6cb6beac02bd82af4d05023cd3b349b7c93eb55602
+(9) 0xaf1b562579a92178cd0ec4cd397a98351c6561bdadecb74902e7ed96efe25f40
+(10) 0xa4eaf306f83ea4c1f553e496c9a7fe4b5352416f6f757b4d5252668cd57b8a06
+(11) 0x1b2996bd9770f60ed2b0978ccb5b45d11f2d0f7b0b720c06d3bcec41e5541e30
+(12) 0x169fdf09cbf70dafbdc371b2246287c3396013ba2bb157b8c96472249cc5e8db
+(13) 0x66ee8bc30296139b3a9b9abfada9cc553d83ebfeb1caa91ba276259360abbe84
+(14) 0xfc567b0b8cd771be54868dfa2380ae7a26335f04c7c1304e2a2bf5ee3dd15c4e
+(15) 0x7624d738d249c32f1a393cd1f0ebeedc269f11a0edee24b7e65e2ba33ac8c5a5
+(16) 0xad97f45ecf0832c2058be230436a45c4bec8ceee7244106e49eb3b7be2de3d3c
+(17) 0x1f40d121ffa834f0283f4e533d26c604485a19811682eb52b801fd9152109599
+(18) 0xb11a5bfd1235b0b82e967f3d523c06c75bf42d77becb81881b58dd48a5e4d3cd
+(19) 0xd2c9a0eacc1ead148e615d90d654e2dfde16f0b2fb7bddab0062674c1cd548db
+
+HD Wallet
+==================
+Mnemonic:      shed key novel deliver future earth initial method genius north cover catch
+Base HD Path:  m/44'/60'/0'/0/{account_index}
+
+Default Gas Price
+==================
+2000000000
+
+BlockGas Limit
+==================
+30000000
+
+Call Gas Limit
+==================
+50000000
+
+Chain
+==================
+Hardfork: shanghai
+Id:       1337
+
+RPC Listening on 172.16.68.190:8545
+
+eth_blockNumber
+net_version
+eth_accounts
+eth_getBlockByNumber
+eth_accounts
+net_version
+eth_getBlockByNumber
+eth_getBlockByNumber
+net_version
+eth_getBlockByNumber
+eth_estimateGas
+net_version
+eth_blockNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+
+  Transaction: 0x438b2e15210510a0e12e9eaa1a8a806b4f1452fe15a3bdb22c71110e3a3fffef
+  Contract created: 0xd031e7bfd2168f47a59bb47153ec43ec13f7dd1a
+  Gas usage: 1103502
+  Block number: 4
+  Block time: Wed Dec 11 2024 16:15:14 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_getCode
+eth_getTransactionByHash
+eth_getBlockByNumber
+eth_getBalance
+eth_blockNumber
+net_version
+eth_accounts
+eth_getBlockByNumber
+eth_accounts
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_blockNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+
+  Transaction: 0xda28d031d241e42949a32968b64a08df2dd0156e4994ce6779dfd05776cb2bd0
+  Contract created: 0x12c069503e109ad58d0ec38fd4d21d72430fdc7d
+  Gas usage: 1103502
+  Block number: 5
+  Block time: Wed Dec 11 2024 16:15:19 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_getCode
+eth_getTransactionByHash
+eth_getBlockByNumber
+eth_getBalance
+web3_clientVersion
+eth_accounts
+web3_clientVersion
+eth_getBalance
+web3_clientVersion
+eth_getBalance
+eth_chainId
+eth_call
+eth_getBlockByNumber
+eth_chainId
+eth_chainId
+eth_estimateGas
+eth_blockNumber
+eth_getBlockByNumber
+eth_sendTransaction
+eth_getTransactionReceipt
+web3_clientVersion
+eth_getBalance
+eth_chainId
+eth_call
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_chainId
+eth_chainId
+eth_estimateGas
+eth_blockNumber
+eth_getBlockByNumber
+eth_sendTransaction
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+web3_clientVersion
+eth_getTransactionReceipt
+eth_getBalance
+eth_chainId
+eth_call
+eth_getBlockByNumber
+eth_chainId
+eth_chainId
+eth_estimateGas
+eth_getTransactionReceipt
+eth_blockNumber
+eth_getBlockByNumber
+eth_sendTransaction
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+web3_clientVersion
+eth_getTransactionReceipt
+eth_getBalance
+eth_chainId
+eth_call
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_chainId
+eth_chainId
+eth_estimateGas
+eth_getTransactionReceipt
+eth_blockNumber
+eth_getBlockByNumber
+eth_sendTransaction
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+web3_clientVersion
+eth_getBalance
+eth_getTransactionReceipt
+eth_chainId
+eth_call
+eth_getBlockByNumber
+eth_chainId
+eth_chainId
+eth_estimateGas
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_blockNumber
+eth_getBlockByNumber
+eth_sendTransaction
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+web3_clientVersion
+eth_getTransactionReceipt
+eth_getBalance
+eth_getTransactionReceipt
+eth_chainId
+eth_call
+eth_getBlockByNumber
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_getTransactionReceipt
+eth_blockNumber
+eth_getBlockByNumber
+eth_sendTransaction
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+web3_clientVersion
+eth_getTransactionReceipt
+eth_getBalance
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_chainId
+eth_chainId
+eth_estimateGas
+eth_getTransactionReceipt
+eth_blockNumber
+eth_getBlockByNumber
+eth_sendTransaction
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+web3_clientVersion
+eth_getTransactionReceipt
+eth_getBalance
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_chainId
+eth_chainId
+eth_estimateGas
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_blockNumber
+eth_getBlockByNumber
+eth_sendTransaction
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+web3_clientVersion
+eth_getTransactionReceipt
+eth_getBalance
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_chainId
+eth_chainId
+eth_getTransactionReceipt
+eth_estimateGas
+eth_getTransactionReceipt
+eth_blockNumber
+eth_getBlockByNumber
+eth_sendTransaction
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+web3_clientVersion
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getBalance
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_chainId
+eth_chainId
+eth_estimateGas
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_blockNumber
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_sendTransaction
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+web3_clientVersion
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getBalance
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_chainId
+eth_chainId
+eth_estimateGas
+eth_getTransactionReceipt
+eth_blockNumber
+eth_getBlockByNumber
+eth_sendTransaction
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+web3_clientVersion
+eth_getBalance
+eth_getBlockByNumber
+eth_chainId
+eth_chainId
+eth_estimateGas
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_blockNumber
+eth_getBlockByNumber
+eth_sendTransaction
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+web3_clientVersion
+eth_getBalance
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_chainId
+eth_chainId
+eth_estimateGas
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_blockNumber
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_sendTransaction
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+web3_clientVersion
+eth_getTransactionReceipt
+eth_getBalance
+eth_getBlockByNumber
+eth_chainId
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_blockNumber
+eth_getBlockByNumber
+eth_sendTransaction
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+web3_clientVersion
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getBalance
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_chainId
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+web3_clientVersion
+eth_getTransactionReceipt
+eth_getBalance
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_chainId
+eth_chainId
+eth_estimateGas
+
+  Transaction: 0x3a3aeff8b565bec5ee76a11c52919512441f346c2a8c01ae67b11e3d7c06481f
+  Gas usage: 227792
+  Block number: 7
+  Block time: Wed Dec 11 2024 16:15:29 GMT+0530 (India Standard Time)
+
+
+  Transaction: 0x8928b5fecabab51ab804c3cf023cf0f7f5c0cdc4ddaf4d73011d8857cd9643ee
+  Gas usage: 438484
+  Block number: 7
+  Block time: Wed Dec 11 2024 16:15:29 GMT+0530 (India Standard Time)
+
+
+  Transaction: 0x2ba8fb122c46243c7557d2cea208e301ea9f2ec3c0816430d4d6c88881629253
+  Gas usage: 649176
+  Block number: 7
+  Block time: Wed Dec 11 2024 16:15:29 GMT+0530 (India Standard Time)
+
+
+  Transaction: 0xb5304458d713c60fcab0fc96d05538c7a65a142961befe40790b808749ff0791
+  Gas usage: 859868
+  Block number: 7
+  Block time: Wed Dec 11 2024 16:15:29 GMT+0530 (India Standard Time)
+
+
+  Transaction: 0xd9f3635d70e1b89e9fb47c5b3795a4fd7dcb2a0e41be36f73030f440ffbfb082
+  Gas usage: 1070560
+  Block number: 7
+  Block time: Wed Dec 11 2024 16:15:29 GMT+0530 (India Standard Time)
+
+
+  Transaction: 0xc269bc4f8460d30dbb4183a1e8d19f09105c6dd3ccec88708ff3a6b1203368be
+  Gas usage: 1281252
+  Block number: 7
+  Block time: Wed Dec 11 2024 16:15:29 GMT+0530 (India Standard Time)
+
+
+  Transaction: 0xef8a36d481100788a146015f1397000a1b8028301e41359b735340cb9f236b69
+  Gas usage: 1483917
+  Block number: 7
+  Block time: Wed Dec 11 2024 16:15:29 GMT+0530 (India Standard Time)
+
+
+  Transaction: 0x2bd67adc84566edafe3b10f4eb264bb269fa781cdca157bcffd748f1b8814c04
+  Gas usage: 1669482
+  Block number: 7
+  Block time: Wed Dec 11 2024 16:15:29 GMT+0530 (India Standard Time)
+
+
+  Transaction: 0xe1a22ebb814516cf2e57b8caaa14e79938b8c7e2f96a427b97152b3551cde0e6
+  Gas usage: 1855047
+  Block number: 7
+  Block time: Wed Dec 11 2024 16:15:29 GMT+0530 (India Standard Time)
+
+
+  Transaction: 0x045140e3a41645f62b05b45a82e1d24fc6b3d671feb19b2c50ee267bd19c4a96
+  Gas usage: 2040612
+  Block number: 7
+  Block time: Wed Dec 11 2024 16:15:29 GMT+0530 (India Standard Time)
+
+
+  Transaction: 0x68f8bb2f91ae0c12887f33174e3ca71503e411aa3bf49a2b97618812ef243ead
+  Gas usage: 2226177
+  Block number: 7
+  Block time: Wed Dec 11 2024 16:15:29 GMT+0530 (India Standard Time)
+
+
+  Transaction: 0xcf8f0315423cc286fbe153761236ffdd886c172e4bc2fa1b138f87147de1b68f
+  Gas usage: 2411742
+  Block number: 7
+  Block time: Wed Dec 11 2024 16:15:29 GMT+0530 (India Standard Time)
+
+
+  Transaction: 0xd28a4b9eb262f6a585c2585d57f64acf37386e4dbc6e79fd83750a7f503b4ff8
+  Gas usage: 2597307
+  Block number: 7
+  Block time: Wed Dec 11 2024 16:15:29 GMT+0530 (India Standard Time)
+
+
+  Transaction: 0x8cac81fe7277c38fd631c8d225da58a70616f4b27f5f03321aed468f43dca62f
+  Gas usage: 2782872
+  Block number: 7
+  Block time: Wed Dec 11 2024 16:15:29 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+web3_clientVersion
+eth_getBalance
+eth_getBlockByNumber
+eth_chainId
+eth_chainId
+eth_estimateGas
+eth_blockNumber
+eth_getBlockByNumber
+eth_sendTransaction
+eth_getTransactionReceipt
+web3_clientVersion
+eth_getBalance
+eth_getBlockByNumber
+eth_chainId
+eth_chainId
+eth_estimateGas
+eth_blockNumber
+eth_getBlockByNumber
+eth_sendTransaction
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+web3_clientVersion
+eth_getBalance
+eth_getBlockByNumber
+eth_chainId
+eth_chainId
+eth_estimateGas
+eth_getTransactionReceipt
+eth_blockNumber
+eth_getBlockByNumber
+eth_sendTransaction
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_blockNumber
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_sendTransaction
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_blockNumber
+eth_getBlockByNumber
+eth_sendTransaction
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_chainId
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_chainId
+eth_getBlockByNumber
+eth_chainId
+eth_estimateGas
+eth_chainId
+eth_estimateGas
+eth_blockNumber
+eth_blockNumber
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_sendTransaction
+eth_sendTransaction
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+
+  Transaction: 0xeb0edf67d67c5090309c61822fd86849ba2cb50058ca09fce30f460c5dbda9a4
+  Gas usage: 185565
+  Block number: 8
+  Block time: Wed Dec 11 2024 16:15:35 GMT+0530 (India Standard Time)
+
+
+  Transaction: 0xa443c22a0b801d5a77b59c656f4ea8b2087a9e492a0f596d3faf233f9103a1d2
+  Gas usage: 371118
+  Block number: 8
+  Block time: Wed Dec 11 2024 16:15:35 GMT+0530 (India Standard Time)
+
+
+  Transaction: 0x3c72539c06f922bd6cd8ac5318733e4e565346333b3b21978c7e245cfb6f7a8c
+  Gas usage: 556683
+  Block number: 8
+  Block time: Wed Dec 11 2024 16:15:35 GMT+0530 (India Standard Time)
+
+
+  Transaction: 0x967b870faae42f6869afaedb7ac9e5d6db4b408f494f001e78cd5fa269f34f6e
+  Gas usage: 581507
+  Block number: 8
+  Block time: Wed Dec 11 2024 16:15:35 GMT+0530 (India Standard Time)
+
+
+  Transaction: 0x6d6e5229f0e6c78711cf0f2b5a3f10c8f57a830879f7cff128a152fc249826df
+  Gas usage: 606331
+  Block number: 8
+  Block time: Wed Dec 11 2024 16:15:35 GMT+0530 (India Standard Time)
+
+
+  Transaction: 0x961f00141163958047dd441c07c81ab4cf300d06a63543332460f1b4280252b5
+  Gas usage: 631153
+  Block number: 8
+  Block time: Wed Dec 11 2024 16:15:35 GMT+0530 (India Standard Time)
+
+
+  Transaction: 0x25cb338b73c6eabb95c4f088221250480cf47dea8cadaccbdae26f0a9a237def
+  Gas usage: 655975
+  Block number: 8
+  Block time: Wed Dec 11 2024 16:15:35 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_estimateGas
+eth_blockNumber
+eth_getBlockByNumber
+eth_sendTransaction
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_estimateGas
+eth_getTransactionReceipt
+eth_blockNumber
+eth_getBlockByNumber
+eth_sendTransaction
+eth_getTransactionReceipt
+
+  Transaction: 0x4cf60c16acf1ff72d32365e91ba4ed8524cb8c40c3b7f7a80d7e04de981838b8
+  Gas usage: 185565
+  Block number: 9
+  Block time: Wed Dec 11 2024 16:15:40 GMT+0530 (India Standard Time)
+
+
+  Transaction: 0x81d35dfc2f59584483144975c30ce4162070b37694a95be64c8e2247d55322a7
+  Gas usage: 371130
+  Block number: 9
+  Block time: Wed Dec 11 2024 16:15:40 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+eth_getTransactionReceipt
+
+Received shutdown signal: SIGHUP
+Shutting down…
+Server has been shut down

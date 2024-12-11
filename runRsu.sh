@@ -1,0 +1,7 @@
+#!/bin/bash
+gnome-terminal --tab -- bash -c "python Rsus.py -n Bez -p 25 12 200 15 180 -u 0x07cfb84B894cF33C55D4A21FeB4f217649614D3d -q 20 -c '0x12c069503E109aD58D0EC38fd4d21D72430fdC7d' -k 0xa407438d69f0de44d387b7cb319f6fac6dab73c42b85ba9c950da9b168319a3a; exec bash -i"
+gnome-terminal --tab -- bash -c "python Rsus.py -n AUDI -p 40 20 300 15 230 -u 0x0197AA3F8E800797865298677880e27350E9ABd6 -q 20 -c '0x12c069503E109aD58D0EC38fd4d21D72430fdC7d' -k 0x2fe68c588619093b0f262533719c777901cc87b41b809ebe6bbda5da3f46b69e; exec bash -i"
+gnome-terminal --tab -- bash -c "python Rsus.py -n SUZ -p 20 15 150 10 190 -u 0xeF4A8739F5CB5689cA60438fF7B71A432c144660 -q 20 -c '0x12c069503E109aD58D0EC38fd4d21D72430fdC7d' -k 0x30f17d212a687ac9e7bc5921fbd1f6161e32dec40809c7fa354cd300213efbf9; exec bash -i"
+gnome-terminal --tab -- bash -c "python Rsus.py -n BMW -p 30 15 250 20 200 -u 0x7a357f6ce5F3C95BAa3B4398BDdE03D9601E59Ce -q 20 -c '0x12c069503E109aD58D0EC38fd4d21D72430fdC7d' -k 0x9a4f6793dbec8ba5ff697c056acb0e8b31090f33888fa1ceb062ec532bef509b; exec bash -i"
+gnome-terminal --tab -- bash -c "python Rsus.py -n Bez -p 25 12 200 15 180 -u 0x9371B78b72849Cb4689EFc82C9cEa64d13587b49 -q 20 -c '0x12c069503E109aD58D0EC38fd4d21D72430fdC7d' -k 0x05e746b8b62696e4ea6cb41c07758a898bfa66f145926c3bb437036224370c9e; exec bash -i"
+gnome-terminal --tab -- bash -c "python Rsus.py -n AUDI -p 40 20 300 15 230 -u 0xcCD3AB1C841Fb304066F49e4D09c8F655F3BE413 -q 20 -c '0x12c069503E109aD58D0EC38fd4d21D72430fdC7d' -k 0x28f8a4d5209c7a6877df2026b3ac9988be6dfd0b4b838658d0f1f26b1104e297; exec bash -i"
